@@ -1,0 +1,132 @@
+{
+    "title": "Carlos A. Morales F. | Portafolio",
+    "description": "Soy Carlos, estudiante de Ingeniería Industrial.",
+    "image": "/avatar.jpg",
+    "avatar": "/avatar.jpg",
+    "name": "Carlos A. Morales F.",
+    "skill": "Data Analyst, Data Scientist, Machine Learning Engineer",
+    "location": "Lima, Carabayllo",
+    "media": {
+        "email": "carloscgm208@gmail.com",
+        "cv": "https://drive.google.com/file/d/1e5cxdDAmnZPcBxAczKmJ5lpH_vmrG3lL/view?usp=sharing",
+        "github": "https://github.com/carlos208cgm",
+        "likedin": "https://www.linkedin.com/in/carlos-andres-morales-flores-782219285/"
+    },
+    "about": "Estudiante del IX ciclo de Ingeniería Industrial, perteneciente al decimo superior. Enfoque proactivo en la resolucion de desafios mediante estrategias innovadoras y analisis de datos. Habilidades de adaptabilidad, aprendizaje rapido y generar soluciones efectivas. Experiencia en el desarrollo de proyectos con equipos interdisciplinarios y comprometido en la obtencion de resultados significativos. Siempre con un enfoque de aprendizaje continuo e integral.",
+    "technologies": [
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "HTML"
+        },
+        {
+            "icon": "devicon-git-plain",
+            "name": "Git"
+        },
+        {
+            "icon": "devicon-csharp-plain",
+            "name": "C#"
+        },
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        },
+        {
+            "icon": "devicon-azuresqldatabase-plain",
+            "name": "SQL Server"
+        },
+        {
+            "icon": "devicon-visualbasic-plain",
+            "name": "Excel"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "terminal",
+            "title": "Machine Learning",
+            "subtitle": "DMC Peru",
+            "description": "Desarrollo y aplicación de algoritmos de aprendizaje automático.",
+            "date": "2023 - 2024"
+        },
+        {
+            "icon": "rabbit",
+            "title": "Python para análisis de datos",
+            "subtitle": "DMC Perú",
+            "description": "Enfoque en análisis, manipulación y visualización de datos.",
+            "date": "2023"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "bar-chart-4",
+            "title": "Home Credit - Credit Risk Model Stability",
+            "subtitle": "Kaggle",
+            "description": "Modelo predictivo de riesgo crediticio y que este a su vez sea estable en el tiempo.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-kaggle-plain",
+                    "name": "kaggle"
+                }
+            ],
+            "image": "/kaggle.jpg",
+            "url": "https://matrix.fandom.com/wiki/MetaCortex",
+            "github": "https://github.com/thomasanderson"
+        },
+        {
+            "icon": "contact-round",
+            "title": "Contactabilidad para la gestión de cobranza",
+            "subtitle": "Kaggle",
+            "description": "Variables que influyen más en la contactabilidad para la gestión de cobranza.",
+            "technologies": [
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Binario"
+                }
+            ],
+            "image": "/kaggle2.jpg",
+            "url": "https://matrix.fandom.com/wiki/Wiki",
+            "github": "https://github.com/thomasanderson"
+        }
+    ],
+    "training": [
+        {
+            "icon": "university",
+            "title": "Universidad Nacional Mayor de San Marcos",
+            "subtitle": "Facultad de Ingeniería Industrial",
+            "description": "Ingeniería Industrial",
+            "date": "2020 - actualidad",
+            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+        },
+        {
+            "icon": "university",
+            "title": "Universidad Nacional de Ingeniería",
+            "subtitle": "Facultad de ciencias",
+            "description": "Física",
+            "date": "2023 - actualidad",
+            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+        }
+    ],
+    "extras": [
+        {
+            "image": "/html.jpg",
+            "title": "HTML",
+            "description": "Apuntes de programación en HTML",
+            "url": "https://grandiose-cheek-e67.notion.site/HTML-403ec4ffeeab4574b55f16f0ca1f20ba?pvs=4"
+        },
+        {
+            "image": "/ML.jpg",
+            "title": "Machine Learning",
+            "description": "Apuntes y material extra de Machine Learning",
+            "url": "https://grandiose-cheek-e67.notion.site/Machine-Learning-7b17c7d9a5854048bf9b403bb1228024?pvs=4"
+        },
+        {
+            "image": "/lecturas.jpg",
+            "title": "Lecturas recomendadas",
+            "description": "Lecturas sobre los hábitos, teorías del aprendizaje y temas diversos",
+            "url": "https://grandiose-cheek-e67.notion.site/Lecturas-recomendadas-687224cc890f4f1282792e13c4b2864f?pvs=4"
+        }
+    ]
+}
