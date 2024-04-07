@@ -76,11 +76,11 @@
                 },
                 {
                     "icon": "devicon-matplotlib-plain",
-                    "name": "kaggle"
+                    "name": "Matplotlib"
                 },
                 {
                     "icon": "devicon-scikitlearn-plain",
-                    "name": "kaggle"
+                    "name": "Sklearn"
                 }
             ],
             "image": "/kaggle.jpg",
