@@ -69,6 +69,18 @@
                 {
                     "icon": "devicon-kaggle-plain",
                     "name": "kaggle"
+                },
+                {
+                    "icon": "devicon-pandas-plain",
+                    "name": "pandas"
+                },
+                {
+                    "icon": "devicon-matplotlib-plain",
+                    "name": "kaggle"
+                },
+                {
+                    "icon": "devicon-scikitlearn-plain",
+                    "name": "kaggle"
                 }
             ],
             "image": "/kaggle.jpg",
