@@ -105,7 +105,7 @@
     ],
     "training": [
         {
-            "icon": "devicon-trpc-plain",
+            "icon": "devicon-angularmaterial-plain",
             "title": "Universidad Nacional Mayor de San Marcos",
             "subtitle": "Facultad de Ingeniería Industrial",
             "description": "Ingeniería Industrial",
@@ -113,7 +113,7 @@
             "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
         },
         {
-            "icon": "devicon-trpc-plain",
+            "icon": "devicon-angularmaterial-plain",
             "title": "Universidad Nacional de Ingeniería",
             "subtitle": "Facultad de ciencias",
             "description": "Física",
