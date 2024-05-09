@@ -94,8 +94,16 @@
             "description": "Análisis exploratorio de datos en el área de RR.HH.",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-pandas-plain",
+                    "name": "pandas"
+                },
+                {
+                    "icon": "devicon-matplotlib-plain",
+                    "name": "Matplotlib"
                 }
             ],
             "image": "/kaggle2.jpg",
