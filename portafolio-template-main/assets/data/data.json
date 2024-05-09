@@ -89,9 +89,9 @@
         },
         {
             "icon": "bar-chart-4",
-            "title": "Contactabilidad para la gestión de cobranza",
-            "subtitle": "Kaggle",
-            "description": "Variables que influyen más en la contactabilidad para la gestión de cobranza.",
+            "title": "EDA en HR Analytics",
+            "subtitle": "DMC",
+            "description": "Análisis exploratorio de datos en el área de RR.HH.",
             "technologies": [
                 {
                     "icon": "devicon-devicon-plain",
@@ -99,7 +99,7 @@
                 }
             ],
             "image": "/kaggle2.jpg",
-            "url": "https://github.com/carlos208cgm",
+            "url": "https://colab.research.google.com/drive/1zPTfzI4YU6oJ4i_eC4SG_fFzoYSTfcsX?usp=sharing",
             "github": "https://github.com/carlos208cgm"
         }
     ],
