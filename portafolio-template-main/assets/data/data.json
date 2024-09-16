@@ -58,9 +58,9 @@
     "projects": [
         {
             "icon": "bar-chart-4",
-            "title": "Home Credit - Credit Risk Model Stability",
+            "title": "Contactabilidad para la gestión de cobranza",
             "subtitle": "Kaggle",
-            "description": "Modelo predictivo de riesgo crediticio y que este a su vez sea estable en el tiempo.",
+            "description": "Se requiere identificar cuáles son las variables que influyen más en la contactabilidad para la gestión de cobranza.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
